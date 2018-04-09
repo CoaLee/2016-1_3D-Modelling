@@ -1,0 +1,304 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+[VRDevice] Successfully created device oculus.
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     2016 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Lucidraw\161130_지석외주\New Unity Project\1130 Testing_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Lucidraw\161130_지석외주\New Unity Project\1130 Testing_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Lucidraw\161130_지석외주\New Unity Project\1130 Testing_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Lucidraw\161130_지석외주\New Unity Project\1130 Testing_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Lucidraw\161130_지석외주\New Unity Project\1130 Testing_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Lucidraw\161130_지석외주\New Unity Project\1130 Testing_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Lucidraw\161130_지석외주\New Unity Project\1130 Testing_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Lucidraw\161130_지석외주\New Unity Project\1130 Testing_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Lucidraw\161130_지석외주\New Unity Project\1130 Testing_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Lucidraw\161130_지석외주\New Unity Project\1130 Testing_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Lucidraw\161130_지석외주\New Unity Project\1130 Testing_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Lucidraw\161130_지석외주\New Unity Project\1130 Testing_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.124 seconds
+Platform assembly: D:\Lucidraw\161130_지석외주\New Unity Project\1130 Testing_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Lucidraw\161130_지석외주\New Unity Project\1130 Testing_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.573750 ms
+UnityException: Tag: Pointer is not defined.
+  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectWithTag (string)
+  at MouseInput.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: Tag: modeIndicator is not defined.
+  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectWithTag (string)
+  at UnityEngine.GameObject.FindWithTag (System.String tag) [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: Tag: modeIndicator is not defined.
+  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectWithTag (string)
+  at UnityEngine.GameObject.FindWithTag (System.String tag) [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: Tag: modeIndicator is not defined.
+  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectWithTag (string)
+  at UnityEngine.GameObject.FindWithTag (System.String tag) [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: Tag: modeIndicator is not defined.
+  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectWithTag (string)
+  at UnityEngine.GameObject.FindWithTag (System.String tag) [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: Tag: modeIndicator is not defined.
+  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectWithTag (string)
+  at UnityEngine.GameObject.FindWithTag (System.String tag) [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: Tag: modeIndicator is not defined.
+  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectWithTag (string)
+  at UnityEngine.GameObject.FindWithTag (System.String tag) [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBcurve () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBpatch () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBcurve () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBpatch () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBcurve () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBpatch () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBcurve () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBpatch () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBcurve () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBpatch () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBcurve () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBpatch () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBcurve () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBpatch () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBcurve () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBpatch () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBcurve () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBpatch () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MouseInput.HandlePoint () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBcurve () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleBpatch () [0x00000] in <filename unknown>:0 
+  at MouseInput.HandleInput () [0x00000] in <filename unknown>:0 
+  at MouseInput.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 4184 -> priority: 1 
+  Thread -> id: 2ebc -> priority: 1 
+  Thread -> id: 4174 -> priority: 1 
